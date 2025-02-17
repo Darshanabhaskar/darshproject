@@ -1,4 +1,6 @@
 def sub(y):
     return y
-def mul(x,y)
+def mul(x,y):
     return x*y
+def div (x,y):
+    return x/y
